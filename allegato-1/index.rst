@@ -15,7 +15,7 @@ Il modello di dichiarazione è composto da due sezioni:
    :class: useful-docs
 
    - :mimetype:`application/pdf` :download:`Modello di dichiarazione di accessibilità
-     <allegato 1 - modello di dichiarazione di accessibilità.pdf>`
+     <Allegato 1 - Modello di Dichiarazione di Accessibilità.pdf>`
 
 .. forum_italia:
    :topic_id: 10780

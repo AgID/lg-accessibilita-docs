@@ -9,7 +9,7 @@ in particolare, delle persone con disabilità agli strumenti informatici”.
    :class: useful-docs
 
    - :mimetype:`application/pdf` :download:`Modello di autovalutazione
-     <allegato 2 - modello di autovalutazione.pdf>`
+     <Allegato 2 - Modello di autovalutazione.pdf>`
 
 .. forum_italia:
    :topic_id: 10781
