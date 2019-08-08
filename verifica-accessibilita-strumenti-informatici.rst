@@ -140,12 +140,12 @@ Per le forniture sotto soglia comunitaria, fermo restando la possibilità
 di utilizzare comunque la procedura di cui al paragrafo 3.2.2.1., è
 richiesto di utilizzare almeno una metodologia semplificata per la
 realizzazione di test di usabilità, ad esempio quella definita dal
-Protocollo eGLU [1]_ o con altre modalità (esempio: analisi basate su
+Protocollo eGLU [2]_ o con altre modalità (esempio: analisi basate su
 euristiche, svolte anche da parte di funzionari del medesimo soggetto
 erogatore opportunamente formati, con il coinvolgimento di persone con
 disabilità.
 
-.. [1] http://www.funzionepubblica.gov.it/glu
+.. [2] http://www.funzionepubblica.gov.it/glu
 
 Con riferimento alla creazione e gestione dei gruppi di valutazione
 composti da persone con disabilità, si ricorda di garantire il rispetto

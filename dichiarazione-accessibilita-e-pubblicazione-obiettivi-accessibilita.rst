@@ -66,7 +66,7 @@ accessibilità determina un inadempimento normativo, con la
 responsabilità prevista dall’art. 9 della Legge n. 4/2004.
 
 Conformità al modello di dichiarazione di accessibilità 
--------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La conformità al modello di dichiarazione di accessibilità così come
 indicato nell’art. 3 – quater della Legge 4/2014 modificata con il

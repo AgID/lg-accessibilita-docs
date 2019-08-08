@@ -135,43 +135,43 @@ qualsiasi contenuto di un sito web o applicazione mobile, l’onere
 sproporzionato può essere applicato ai seguenti contenuti di siti web e
 applicazioni mobili:
 
-a) formati di file per ufficio pubblicati prima del 23 settembre 2018, a
+-  formati di file per ufficio pubblicati prima del 23 settembre 2018, a
    meno che tali contenuti non siano necessari per i processi
    amministrativi attivi relativi alle funzioni assolte dall'ente
    pubblico interessato;
 
-b) media basati sul tempo preregistrati pubblicati prima del 23
+-  media basati sul tempo preregistrati pubblicati prima del 23
    settembre 2019;
 
-c) media basati sulla trasmissione in diretta;
+-  media basati sulla trasmissione in diretta;
 
-d) carte e servizi di cartografia online, a condizione che le
+-  carte e servizi di cartografia online, a condizione che le
    informazioni essenziali siano fornite in modalità digitale
    accessibile per le carte per la navigazione;
 
-e) contenuti di terzi che non sono né finanziati né sviluppati dall'ente
+-  contenuti di terzi che non sono né finanziati né sviluppati dall'ente
    pubblico interessato né sottoposti al suo controllo;
 
-f) riproduzioni di pezzi provenienti da collezioni del patrimonio
+-  riproduzioni di pezzi provenienti da collezioni del patrimonio
    storico-culturale che non possono essere resi pienamente accessibili
    a causa:
 
-   I.  dell'incompatibilità delle prescrizioni in materia di
+   1.  dell'incompatibilità delle prescrizioni in materia di
        accessibilità con la conservazione del pezzo in questione o
        l'autenticità della riproduzione (ad esempio contrasto); oppure
 
-   II. della non disponibilità di soluzioni automatizzate ed
+   2. della non disponibilità di soluzioni automatizzate ed
        economicamente vantaggiose in grado di estrarre facilmente il
        testo di manoscritti o altri pezzi provenienti da collezioni del
        patrimonio storico-culturale per trasformarlo in contenuti
        compatibili con le prescrizioni in materia di accessibilità;
 
-g) contenuti di extranet o intranet ossia siti web disponibili soltanto
+-  contenuti di extranet o intranet ossia siti web disponibili soltanto
    per un gruppo chiuso di persone e non per il grande pubblico in
    quanto tale, pubblicati prima del 23 settembre 2019 fino a una loro
    revisione sostanziale;
 
-h) contenuti di siti web e applicazioni mobili considerati archivi nel
+-  contenuti di siti web e applicazioni mobili considerati archivi nel
    senso che contengono soltanto contenuti che non sono né necessari per
    processi amministrativi attivi né aggiornati o rielaborati dopo il 23
    settembre 2019.

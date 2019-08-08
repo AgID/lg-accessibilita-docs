@@ -350,130 +350,131 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
 
 1. *Sintesi della relazione*
 
-Nella relazione è inclusa una sintesi del suo contenuto.
+   Nella relazione è inclusa una sintesi del suo contenuto.
 
 2. *Descrizione delle attività di monitoraggio*
 
-La relazione descrive le attività di monitoraggio svolte dallo Stato
-membro, tenendo nettamente separati i siti web e le applicazioni mobili,
-e comprende le informazioni di seguito specificate.
+   La relazione descrive le attività di monitoraggio svolte dallo Stato
+   membro, tenendo nettamente separati i siti web e le applicazioni mobili,
+   e comprende le informazioni di seguito specificate.
+   
+   2.1. *Informazioni generali*
+   
+      a) Le date in cui è stato effettuato il monitoraggio nell'arco di
+      ciascun periodo di monitoraggio;
+      
+      b) l'identificazione dell'organismo incaricato
+      del monitoraggio;
+      
+      c) la descrizione della rappresentatività e della distribuzione del
+      campione come specificato al paragrafo 5.1.3.2 Selezione del campione
+      dei siti web e al paragrafo 5.1.3.3 Selezione del campione per le
+      applicazioni mobili
+   
+   2.2. *Composizione del campione*
+   
+      a) Il numero complessivo di siti web e di applicazioni mobili inseriti
+      nel campione;
+      
+      b) il numero di siti web monitorati applicando il metodo di monitoraggio
+      semplificato;
+      
+      c) il numero di siti web e di applicazioni mobili monitorati applicando
+      il metodo di monitoraggio approfondito;
+      
+      d) il numero di siti web monitorati per i diversi soggetti erogatori
+      individuati dall’art. 3, comma 1, legge n.4 del 2004;
+      
+      e) la distribuzione del campione di siti web, che illustri la copertura
+      dei servizi pubblici (come prescritto al terzo capoverso del paragrafo
+      5.1.3.2);
+      
+      f) la distribuzione del campione delle applicazioni mobili tra i diversi
+      sistemi operativi (come prescritto al secondo capoverso del paragrafo
+      5.1.3.3);
 
-*2.1. Informazioni generali*
-
-a) Le date in cui è stato effettuato il monitoraggio nell'arco di
-ciascun periodo di monitoraggio;
-
-b) l'identificazione dell'organismo incaricato del monitoraggio;
-
-c) la descrizione della rappresentatività e della distribuzione del
-campione come specificato al paragrafo 5.1.3.2 Selezione del campione
-dei siti web e al paragrafo 5.1.3.3 Selezione del campione per le
-applicazioni mobili
-
-*2.2. Composizione del campione*
-
-a) Il numero complessivo di siti web e di applicazioni mobili inseriti
-nel campione;
-
-b) il numero di siti web monitorati applicando il metodo di monitoraggio
-semplificato;
-
-c) il numero di siti web e di applicazioni mobili monitorati applicando
-il metodo di monitoraggio approfondito;
-
-d) il numero di siti web monitorati per i diversi soggetti erogatori
-individuati dall’art. 3, comma 1, legge n.4 del 2004;
-
-e) la distribuzione del campione di siti web, che illustri la copertura
-dei servizi pubblici (come prescritto al terzo capoverso del paragrafo
-5.1.3.2);
-
-f) la distribuzione del campione delle applicazioni mobili tra i diversi
-sistemi operativi (come prescritto al secondo capoverso del paragrafo
-5.1.3.3);
-
-g) il numero di siti web e di applicazioni mobili monitorati durante il
-periodo di monitoraggio e già inclusi nel precedente periodo di
-monitoraggio (il campione ricorrente descritto al paragrafo 5.1.3.4).
-
-*2.3. Correlazione con le norme, le specifiche tecniche e gli strumenti
-usati per il monitoraggio*
-
-a) una matrice che mediante un indice di correlazione dimostri
-l'attinenza tra i metodi di monitoraggio applicati e le prescrizioni
-contenute nelle norme e nelle specifiche tecniche di cui all'articolo 6
-della direttiva UE 2016/2102, comprese eventuali modifiche significative
-dei metodi;
-
-b) le informazioni sugli strumenti usati, le verifiche effettuate e
-l'eventuale ricorso ai test di usabilità.
+      g) il numero di siti web e di applicazioni mobili monitorati durante il
+      periodo di monitoraggio e già inclusi nel precedente periodo di
+      monitoraggio (il campione ricorrente descritto al paragrafo 5.1.3.4).
+   
+   2.3. *Correlazione con le norme, le specifiche tecniche e gli strumenti usati per il monitoraggio*
+   
+      a) una matrice che mediante un indice di correlazione dimostri
+      l'attinenza tra i metodi di monitoraggio applicati e le prescrizioni
+      contenute nelle norme e nelle specifiche tecniche di cui all'articolo 6
+      della direttiva UE 2016/2102, comprese eventuali modifiche significative
+      dei metodi;
+      
+      b) le informazioni sugli strumenti usati, le verifiche effettuate e
+      l'eventuale ricorso ai test di usabilità.
 
 3. *Esito del monitoraggio*
 
-La relazione illustra l'esito del monitoraggio effettuato da AGID.
+   La relazione illustra l'esito del monitoraggio effettuato da AGID.
 
-*3.1. Esito dettagliato*
+   3.1. *Esito dettagliato*
 
-Per ciascun metodo di monitoraggio applicato (approfondito e
-semplificato, per i siti web e le applicazioni mobili), la relazione
-fornisce quanto segue:
+   Per ciascun metodo di monitoraggio applicato (approfondito e
+   semplificato, per i siti web e le applicazioni mobili), la relazione
+   fornisce quanto segue:
 
-a) una descrizione esaustiva dell'esito del monitoraggio, compresi i
-dati misurati;
+      a) una descrizione esaustiva dell'esito del monitoraggio, compresi i
+      dati misurati;
 
-b) un'analisi qualitativa dell'esito del monitoraggio, comprendente:
+      b) un'analisi qualitativa dell'esito del monitoraggio,
+      comprendente:
 
-i. le conclusioni relative a casi frequenti o critici di non conformità
-alle prescrizioni individuate nelle norme e nelle specifiche tecniche di
-cui all'articolo 6 della direttiva (UE) 2016/2102;
+         i. le conclusioni relative a casi frequenti o critici di non conformità
+         alle prescrizioni individuate nelle norme e nelle specifiche tecniche di
+         cui all'articolo 6 della direttiva (UE) 2016/2102;
 
-ii. quando sia possibile gli sviluppi, da un periodo di monitoraggio al
-successivo, dell'accessibilità generale dei siti web e delle
-applicazioni mobili monitorati.
+         ii. quando sia possibile gli sviluppi, da un periodo di monitoraggio al
+         successivo, dell'accessibilità generale dei siti web e delle
+         applicazioni mobili monitorati.
 
-*3.2. Contenuti supplementari (facoltativi)*
+   3.2. *Contenuti supplementari (facoltativi)*
 
-La relazione può contenere le seguenti informazioni:
+      La relazione può contenere le seguenti informazioni:
 
-a) l'esito del monitoraggio dei siti web o delle applicazioni mobili
-degli enti pubblici che esulano dall'ambito di applicazione della
-direttiva (UE) 2016/2102;
+         a) l'esito del monitoraggio dei siti web o delle applicazioni mobili
+         degli enti pubblici che esulano dall'ambito di applicazione della
+         direttiva (UE) 2016/2102;
 
-b) informazioni dettagliate sulle prestazioni, in termini di
-accessibilità, delle diverse tecnologie utilizzate dai siti web e dalle
-applicazioni mobili monitorati;
+         b) informazioni dettagliate sulle prestazioni, in termini di
+         accessibilità, delle diverse tecnologie utilizzate dai siti web e dalle
+         applicazioni mobili monitorati;
 
-c) i risultati del monitoraggio con riferimento a prescrizioni che vanno
-oltre le prescrizioni contenute nelle norme e nelle specifiche tecniche
-di cui all'articolo 6 della direttiva UE 2016/2102;
+         c) i risultati del monitoraggio con riferimento a prescrizioni che vanno
+         oltre le prescrizioni contenute nelle norme e nelle specifiche tecniche
+         di cui all'articolo 6 della direttiva UE 2016/2102;
 
-d) gli insegnamenti tratti dal feedback inviato dall'organismo
-responsabile del monitoraggio agli enti pubblici monitorati;
+         d) gli insegnamenti tratti dal feedback inviato dall'organismo
+         responsabile del monitoraggio agli enti pubblici monitorati;
 
-e) qualsiasi altro aspetto pertinente riguardante il monitoraggio
-dell'accessibilità dei siti web e delle applicazioni mobili degli enti
-pubblici che vada oltre le prescrizioni della direttiva UE 2016/2102;
+         e) qualsiasi altro aspetto pertinente riguardante il monitoraggio
+         dell'accessibilità dei siti web e delle applicazioni mobili degli enti
+         pubblici che vada oltre le prescrizioni della direttiva UE 2016/2102;
 
-f) una sintesi degli esiti della consultazione con le parti interessate
-e l'elenco delle parti interessate consultate;
+         f) una sintesi degli esiti della consultazione con le parti interessate
+         e l'elenco delle parti interessate consultate;
 
-g) informazioni dettagliate sul ricorso alla deroga per onere
-sproporzionato di cui all'articolo 5 della direttiva UE 2016/2102.
+         g) informazioni dettagliate sul ricorso alla deroga per onere
+         sproporzionato di cui all'articolo 5 della direttiva UE 2016/2102.
 
 4. *Ricorso alla procedura di attuazione e feedback degli utenti finali*
 
-La relazione specifica il ricorso alla procedura di attuazione istituita
-e ne fornisce una descrizione.
+   La relazione specifica il ricorso alla procedura di attuazione istituita
+   e ne fornisce una descrizione.
 
-AGID può inserire nella relazione eventuali dati qualitativi e
-quantitativi sul feedback ricevuto dagli enti pubblici attraverso il
-meccanismo di feedback stabilito all'articolo 7, paragrafo 1, lettera
-b), della direttiva (UE) 2016/2102.
+   AGID può inserire nella relazione eventuali dati qualitativi e
+   quantitativi sul feedback ricevuto dagli enti pubblici attraverso il
+   meccanismo di feedback stabilito all'articolo 7, paragrafo 1, lettera
+   b), della direttiva (UE) 2016/2102.
 
 5. *Contenuto attinente alle misure aggiuntive*
 
-La relazione comprende i contenuti prescritti all'articolo 8, paragrafo
-5, della direttiva (UE) 2016/2102.
+   La relazione comprende i contenuti prescritti all'articolo 8, paragrafo
+   5, della direttiva (UE) 2016/2102.
 
 Periodicità della presentazione delle relazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

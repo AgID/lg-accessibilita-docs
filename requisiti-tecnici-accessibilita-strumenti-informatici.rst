@@ -65,7 +65,7 @@ o su supporti utilizzabili anche in caso di dispositivi non collegati
 alla rete.
 
 Il riferimento tecnico per il Web all’interno della norma UNI EN
-301549:2018, ove le condizioni siano applicabili, è il l “Prospetto A.1:
+301549:2018, ove le condizioni siano applicabili, è il “Prospetto A.1:
 Pagine web - relazione tra il presente documento e i requisiti
 essenziali della Direttiva 2016/2102/EU” all’interno del capitolo
 “Appendice A (informativa): relazione tra il presente documento e i
