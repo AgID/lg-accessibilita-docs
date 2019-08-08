@@ -10,98 +10,98 @@ capitoli, come di seguito descritto:
 
 -  Capitolo 1. **Introduzione**
 
--  il paragrafo 1.1 **Compendio**, riporta una breve descrizione del
-   contenuto del documento;
+   -  il paragrafo 1.1 **Compendio**, riporta una breve descrizione del
+      contenuto del documento;
 
--  il paragrafo 1.2 **Scopo**, descrive le finalità per le quali è
-   emesso il documento;
+   -  il paragrafo 1.2 **Scopo**, descrive le finalità per le quali è
+      emesso il documento;
 
--  il paragrafo 1.3 **Struttura**, questa sezione riporta l’elenco degli
-   allegati, che costituiscono parte integrante del presente documento
+   -  il paragrafo 1.3 **Struttura**, questa sezione riporta l’elenco degli
+      allegati, che costituiscono parte integrante del presente documento
 
--  il paragrafo 1.4 **Soggetti** **destinatari**, individua i
-   destinatari del documento;
+   -  il paragrafo 1.4 **Soggetti** **destinatari**, individua i
+      destinatari del documento;
 
--  il paragrafo 1.5 **Riferimenti normativi e tecnici e abrogazioni**,
-   in questa sezione sono indicati puntualmente, secondo la specifica
-   natura normativa o tecnica, tutti i riferimenti considerati per il
-   documento (sia nazionali che internazionali) nonché quelli aggiornati
-   per i requisiti tecnici abrogati dal Decreto Legislativo 106/2018;
+   -  il paragrafo 1.5 **Riferimenti normativi e tecnici e abrogazioni**,
+      in questa sezione sono indicati puntualmente, secondo la specifica
+      natura normativa o tecnica, tutti i riferimenti considerati per il
+      documento (sia nazionali che internazionali) nonché quelli aggiornati
+      per i requisiti tecnici abrogati dal Decreto Legislativo 106/2018;
 
--  il paragrafo 1.6 **Tempi di attuazione**, riporta le tempistiche
-   relative all’applicazione delle disposizioni del Decreto Legislativo
-   106/2018 (art. 2);
+   -  il paragrafo 1.6 **Tempi di attuazione**, riporta le tempistiche
+      relative all’applicazione delle disposizioni del Decreto Legislativo
+      106/2018 (art. 2);
 
--  il paragrafo 1.7 **Termini e definizioni**, contiene i riferimenti
-   delle abbreviazioni dei termini referenziati.
+   -  il paragrafo 1.7 **Termini e definizioni**, contiene i riferimenti
+      delle abbreviazioni dei termini referenziati.
 
 -  Capitolo 2. **Requisiti tecnici per l’accessibilità degli strumenti
    informatici**
 
--  sono referenziati i requisiti tecnici per l’accessibilità degli
-   strumenti informatici (Hardware, Web, Documenti non web, Software,
-   Applicazioni Mobili, Documentazione e servizi di supporto) che, ai
-   sensi della Direttiva Europea 2016/2102, sono referenziati alla norma
-   tecnica europea EN 301549 v. 2.1.2;
+   -  sono referenziati i requisiti tecnici per l’accessibilità degli
+      strumenti informatici (Hardware, Web, Documenti non web, Software,
+      Applicazioni Mobili, Documentazione e servizi di supporto) che, ai
+      sensi della Direttiva Europea 2016/2102, sono referenziati alla norma
+      tecnica europea EN 301549 v. 2.1.2;
 
--  si forniscono indicazioni sulle postazioni di lavoro a disposizione
-   del dipendente con disabilità avendo come riferimento tecnico la
-   norma UNI EN ISO 9999:2017 per l’identificazione delle tecnologie
-   assistive;
+   -  si forniscono indicazioni sulle postazioni di lavoro a disposizione
+      del dipendente con disabilità avendo come riferimento tecnico la
+      norma UNI EN ISO 9999:2017 per l’identificazione delle tecnologie
+      assistive;
 
--  sono rese disponibili una serie di raccomandazioni e precisazioni
-   sull’accessibilità digitale dei servizi pubblici erogati a sportello
-   dalla Pubblica Amministrazione.
+   -  sono rese disponibili una serie di raccomandazioni e precisazioni
+      sull’accessibilità digitale dei servizi pubblici erogati a sportello
+      dalla Pubblica Amministrazione.
 
 -  Capitolo 3. **Verifica dell’accessibilità degli strumenti
    informatici**
 
--  sono indicati i riferimenti da utilizzare per le verifiche tecniche
-   di conformità di accessibilità degli strumenti informatici che, ai
-   sensi della Direttiva Europea 2016/2102, sono referenziati alla norma
-   tecnica europea EN 301549 v. 2.1.2. Viene inoltre descritta la
-   metodologia e criteri di valutazione per la verifica soggettiva
-   dell’accessibilità dei siti web.
+   -  sono indicati i riferimenti da utilizzare per le verifiche tecniche
+      di conformità di accessibilità degli strumenti informatici che, ai
+      sensi della Direttiva Europea 2016/2102, sono referenziati alla norma
+      tecnica europea EN 301549 v. 2.1.2. Viene inoltre descritta la
+      metodologia e criteri di valutazione per la verifica soggettiva
+      dell’accessibilità dei siti web.
 
 -  Capitolo 4. **Dichiarazione di accessibilità e pubblicazione
    obiettivi di accessibilità**
 
--  sono resi disponibili i riferimenti normativi ed attuativi del
-   modello di dichiarazione di accessibilità per il sito web ed
-   applicazione mobile;
+   -  sono resi disponibili i riferimenti normativi ed attuativi del
+      modello di dichiarazione di accessibilità per il sito web ed
+      applicazione mobile;
 
--  vengono riportati i riferimenti normativi relativi all’obbligo
-   annuale per le Pubbliche Amministrazioni di pubblicare gli obiettivi
-   di accessibilità
+   -  vengono riportati i riferimenti normativi relativi all’obbligo
+      annuale per le Pubbliche Amministrazioni di pubblicare gli obiettivi
+      di accessibilità
 
 -  Capitolo 5. **Metodologia di monitoraggio**
 
--  viene riportata la metodologia di monitoraggio, effettuata da AGID,
-   della conformità dei siti web e delle applicazioni mobili degli enti
-   pubblici alle prescrizioni in materia di accessibilità definite
-   all’articolo 4 della direttiva (UE) 2016/2102;
+   -  viene riportata la metodologia di monitoraggio, effettuata da AGID,
+      della conformità dei siti web e delle applicazioni mobili degli enti
+      pubblici alle prescrizioni in materia di accessibilità definite
+      all’articolo 4 della direttiva (UE) 2016/2102;
 
--  vengono definite le disposizioni riguardanti la presentazione alla
-   Commissione, da parte di AGID, delle relazioni sugli esiti del
-   monitoraggio, compresi i dati misurati;
+   -  vengono definite le disposizioni riguardanti la presentazione alla
+      Commissione, da parte di AGID, delle relazioni sugli esiti del
+      monitoraggio, compresi i dati misurati;
 
--  si fa riferimento all’analisi sulla situazione delle postazioni di
-   lavoro a disposizione del dipendente con disabilità presso le
-   Amministrazioni, che AGID realizza sulla base di alcune informazioni
-   comunicate dalle stesse all’interno del “Modello di dichiarazione di
-   accessibilità”.
+   -  si fa riferimento all’analisi sulla situazione delle postazioni di
+      lavoro a disposizione del dipendente con disabilità presso le
+      Amministrazioni, che AGID realizza sulla base di alcune informazioni
+      comunicate dalle stesse all’interno del “Modello di dichiarazione di
+      accessibilità”.
 
 -  Capitolo 6. **Onere sproporzionato**
 
--  vengono riportate e approfondite le ipotesi generali alla ricorrenza
-   delle quali è opponibile un onere sproporzionato\ **.**
+   -  vengono riportate e approfondite le ipotesi generali alla ricorrenza
+      delle quali è opponibile un onere sproporzionato\ **.**
 
 -  Capitolo 7. **Procedura di attuazione**
 
--  vengono riportate e approfondite le tematiche relative alla
-   contestazione della dichiarazione di accessibilità, all’esito
-   insoddisfacente del monitoraggio, al meccanismo di feedback e alla
-   possibilità di ricorrere al difensore civico digitale.
+   -  vengono riportate e approfondite le tematiche relative alla
+      contestazione della dichiarazione di accessibilità, all’esito
+      insoddisfacente del monitoraggio, al meccanismo di feedback e alla
+      possibilità di ricorrere al difensore civico digitale.
 
 Scopo
 -----
