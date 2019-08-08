@@ -45,3 +45,7 @@ informazioni di cui al paragrafo 7.3, il soggetto erogatore non risponda
 o fornisca una risposta insoddisfacente. Il Difensore civico digitale
 può disporre eventuali misure correttive informando di ciò l’Agenzia per
 l’Italia Digitale.
+
+.. forum_italia:
+   :topic_id: 10779
+   :scope: document

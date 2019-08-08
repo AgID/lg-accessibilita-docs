@@ -87,3 +87,7 @@ e la relativa descrizione) selezionati tra quelli riportati nella classe
 
    -  22 42 **Strumenti interattivi per computer (ad esempio le Smart
       Boards)**
+
+.. forum_italia:
+   :topic_id: 10782
+   :scope: document

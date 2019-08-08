@@ -396,3 +396,7 @@ presenti Linee Guida:
 -  [W3C] World Wide Web Consortium
 
 -  [WCAG] Web Content Accessibility Guidelines
+
+.. forum_italia:
+   :topic_id: 10773
+   :scope: document

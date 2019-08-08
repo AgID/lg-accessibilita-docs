@@ -225,3 +225,7 @@ dell'applicazione mobile non accessibili per onere sproporzionato, il
 soggetto erogatore deve fornire le motivazioni che ne giustificano
 l'inaccessibilità, nonché le eventuali soluzioni di accessibilità
 alternative.
+
+.. forum_italia:
+   :topic_id: 10778
+   :scope: document
