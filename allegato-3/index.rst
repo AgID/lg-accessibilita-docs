@@ -1,4 +1,4 @@
-Allegato 2 - Prodotti per la classe 22 della UNI EN ISO 9999: 2017 relativa alla comunicazione e gestione dell’informazione
+Allegato 3 - Prodotti per la classe 22 della UNI EN ISO 9999: 2017 relativa alla comunicazione e gestione dell’informazione
 ===========================================================================================================================
 
 Di seguito si riportano i prodotti assistivi (con il codice numerico ISO
