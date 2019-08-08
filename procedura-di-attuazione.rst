@@ -46,6 +46,6 @@ o fornisca una risposta insoddisfacente. Il Difensore civico digitale
 può disporre eventuali misure correttive informando di ciò l’Agenzia per
 l’Italia Digitale.
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10779
    :scope: document

@@ -93,6 +93,6 @@ definizione e pubblicazione degli obiettivi annuali di accessibilità,
 sul sito dell’Agenzia per l’Italia digitale è disponibile un’apposita
 applicazione on-line.
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10776
    :scope: document

@@ -396,6 +396,6 @@ accorgimenti per far sì che i diritti di ogni soggetto vengano
 rispettati, così come previsto dalle più generali disposizioni della
 citata Convenzione ONU e dalla normativa italiana.
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10774
    :scope: document

@@ -226,6 +226,6 @@ soggetto erogatore deve fornire le motivazioni che ne giustificano
 l'inaccessibilità, nonché le eventuali soluzioni di accessibilità
 alternative.
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10778
    :scope: document

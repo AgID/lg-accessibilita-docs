@@ -17,6 +17,6 @@ Il modello di dichiarazione è composto da due sezioni:
    - :mimetype:`application/pdf` :download:`Modello di dichiarazione di accessibilità
      <Allegato 1 - Modello di Dichiarazione di Accessibilità.pdf>`
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10780
    :scope: document

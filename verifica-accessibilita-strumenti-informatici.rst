@@ -450,6 +450,6 @@ previsto dal punto “C.12 Documentazione e servizi di supporto”
 dell’“Appendice C (normativa): Determinazione della conformità” della
 norma UNI EN 301549:2018.
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10775
    :scope: document

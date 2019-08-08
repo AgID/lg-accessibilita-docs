@@ -498,6 +498,6 @@ accessibilità”, relativamente alla dotazione delle postazioni di lavoro
 a disposizione del dipendente con disabilità, in ottemperanza all’art. 4
 commi 4 e 5 della Legge n. 4/2004.
 
-.. forum_italia:
+.. forum_italia::
    :topic_id: 10777
    :scope: document
