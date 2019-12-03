@@ -1,10 +1,7 @@
 Linee guida sull'accessibilità degli strumenti informatici
 ==========================================================
 
-.. admonition:: consultation
-   
-   La consultazione pubblica relativa alle Linee guida sull'accessibilità degli strumenti informatici è attiva dal **8
-   agosto** al **7 settembre 2019**. 
+
 
 .. toctree::
    :maxdepth: 2
