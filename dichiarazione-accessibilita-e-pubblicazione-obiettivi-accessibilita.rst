@@ -37,13 +37,13 @@ una delle seguenti analisi:
    disponibile online da AGID e riportato nell’Allegato 2 delle presenti
    Linee Guida.
 
-Ove non sia tecnicamente possibile o altamente oneroso effettuare la
-verifica globale del sito web o della applicazione mobile, ai fini della
+Ove non sia tecnicamente possibile o altamente oneroso effettuare una
+verifica di accessibilità completa del sito web o della applicazione mobile, ai fini della
 redazione della dichiarazione di accessibilità il soggetto erogatore può
 applicare una metodologia di verifica a campione, anche ispirandosi alla
 metodologia di monitoraggio approfondito di cui al capitolo 5 delle
-presenti linee guida. Tale campione deve essere archiviato
-dall’amministrazione all’interno del report di valutazione.
+presenti Linee Guida. Tale campione deve essere riportato
+all'interno di una relazione di valutazione curata del soggetto erogatore.
 
 La prima dichiarazione di accessibilità deve essere compilata:
 
@@ -53,7 +53,7 @@ La prima dichiarazione di accessibilità deve essere compilata:
 -  entro il 23 settembre 2020, per un sito web pubblicato prima del 23
    settembre 2018;
 
--  entro il 23 giugno 2021, per l’applicazione mobile.
+-  entro il 23 giugno 2021, per un’applicazione mobile.
 
 Entro il 23 settembre di ogni anno il soggetto erogatore riesamina e
 valida l'esattezza delle affermazioni contenute nella dichiarazione di
@@ -70,7 +70,7 @@ Conformità al modello di dichiarazione di accessibilità
 
 La conformità al modello di dichiarazione di accessibilità così come
 indicato nell’art. 3 – quater della Legge 4/2014 modificata con il
-D.lgs. 10 agosto 2018, n. 106, è garantita dalla compilazione online del
+Decreto Legislativo 10 agosto 2018, n. 106, è garantita dalla compilazione online del
 modello fornito da AGID.
 
 Qualsiasi altro modello di dichiarazione utilizzato dal soggetto
@@ -82,7 +82,7 @@ Pubblicazione sul sito web degli obiettivi annuali di accessibilità
 
 Il presente paragrafo sostituisce la circolare AGID n. 1/2016 ribadendo
 l’obbligo annuale per le Pubbliche Amministrazioni (di cui all'articolo
-1, comma 2, del Decreto legislativo n. 165/2001) di pubblicare sul
+1, comma 2, del Decreto Legislativo n. 165/2001) di pubblicare sul
 proprio sito web entro il 31 marzo gli obiettivi di accessibilità per
 l’anno corrente e lo stato di attuazione del piano per l'utilizzo del
 telelavoro, come stabilito dal Decreto legge n. 179/2012, articolo 1,
