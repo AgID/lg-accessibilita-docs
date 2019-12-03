@@ -3,7 +3,7 @@ Requisiti tecnici per l’accessibilità degli strumenti informatici
 
 Nei paragrafi sottostanti sono elencati i requisiti tecnici per
 l’accessibilità degli strumenti informatici che, ai sensi della
-Direttiva Europea 2016/2102, sono referenziati alla norma tecnica
+Direttiva UE 2016/2102, sono referenziati alla norma tecnica
 europea EN 301549 v. 2.1.2, disponibile con traduzione ufficiale in
 lingua italiana come norma UNI EN 301549:2018.
 
@@ -51,7 +51,7 @@ norma UNI EN 301549:2018:
 Web
 ---
 
-Secondo quanto riporta il considerando n. 19 della Direttiva europea
+Secondo quanto riporta il considerando n. 19 della Direttiva UE
 2016/2102 "*Il contenuto dei siti web e delle applicazioni mobili
 comprende informazioni sia testuali che non testuali, documenti e moduli
 scaricabili e forme di interazione a due vie, per esempio il trattamento
@@ -64,7 +64,7 @@ servizi mediante applicazioni Internet rese disponibili su reti Intranet
 o su supporti utilizzabili anche in caso di dispositivi non collegati
 alla rete.
 
-Il riferimento tecnico per il Web all’interno della norma UNI EN
+Il riferimento tecnico per il WEB all’interno della norma UNI EN
 301549:2018, ove le condizioni siano applicabili, è il “Prospetto A.1:
 Pagine web - relazione tra il presente documento e i requisiti
 essenziali della Direttiva 2016/2102/EU” all’interno del capitolo
@@ -104,7 +104,7 @@ applicano alle pagine web, includendo:
       WCAG.
 
    Tale conformità deve essere rispettata come requisito minimo per i siti
-   Web le cui procedure di sviluppo e/o aggiornamento sono state avviate
+   web le cui procedure di sviluppo e/o aggiornamento sono state avviate
    prima della data di entrata in vigore delle presenti Linee Guida.
 
 -  La conformità con il livello “AA” delle Web Content Accessibility
@@ -113,10 +113,10 @@ applicano alle pagine web, includendo:
    requisiti di conformità di cui al punto 9.5 della norma UNI EN
    301549:2018.
    Tale conformità deve essere rispettata come requisito minimo per i
-   siti Web le cui procedure negoziali di sviluppo e/o aggiornamento
+   siti web le cui procedure negoziali di sviluppo e/o aggiornamento
    sono state avviate dopo la data di entrata in vigore delle presenti
    Linee Guida. A partire dal 23 settembre 2020, tale conformità dovrà
-   essere rispettata anche per tutti gli altri siti Web di cui al
+   essere rispettata anche per tutti gli altri siti web di cui al
    punto precedente.
 
 -  I requisiti per altri documenti e software sono forniti
@@ -142,14 +142,14 @@ pagine web, che includono:
    pagina web in cui è incorporato.
 
 Oltre a quanto sopra esposto, il riferimento tecnico della norma UNI EN
-301549:2018 per i documenti inseriti all’interno delle pagine Web
+301549:2018 per i documenti inseriti all’interno delle pagine web
 (inclusi i documenti e moduli scaricabili) è il capitolo “10 Documenti
 non web”.
 
 Documenti non web
 -----------------
 
-Secondo il considerando n. 19 della Direttiva europea 2016/2102 “\ *Il
+Secondo il considerando n. 19 della Direttiva UE 2016/2102 “\ *Il
 contenuto dei siti web e delle applicazioni mobili comprende
 informazioni sia testuali che non testuali, documenti e moduli
 scaricabili e forme di interazione a due vie, per esempio il trattamento
@@ -189,7 +189,7 @@ I datori di lavoro pubblici e privati pongono a disposizione del
 dipendente con disabilità la strumentazione hardware e software e la
 tecnologia assistiva adeguata alla specifica disabilità, anche in caso
 di telelavoro, in relazione alle mansioni effettivamente svolte. Nel
-punto 2.7 delle presenti Linee Guida sono stabilite le specifiche
+peragrafo 2.7 delle presenti Linee Guida sono stabilite le specifiche
 tecniche per l’utilizzo delle suddette postazioni con le tecnologie
 assistive, nel rispetto della normativa tecnica internazionale.
 
@@ -267,8 +267,8 @@ Postazioni di lavoro a disposizione del dipendente con disabilità
 -----------------------------------------------------------------
 
 La postazione di lavoro a disposizione del dipendente con disabilità è
-dotata di tecnologie ICT di cui ai punti dal 2.1 al 2.6 del presente
-capitolo e da una serie di ausili definiti “tecnologie assistive”.
+dotata di tecnologie ICT di cui ai paragrafi dal 2.1 al 2.6 del presente
+capitolo e da uno o più ausili ausili definiti “tecnologie assistive”.
 
 Il riferimento tecnico per l’identificazione della tecnologia assistiva
 è la norma UNI EN ISO 9999:2017, referenziata parzialmente per gli
@@ -318,7 +318,7 @@ autonomamente la propria volontà.
 
 Qualora i servizi a sportello non fossero accessibili, occorrerà
 predisporre quelli che, secondo l’articolo 2 della Convenzione ONU
-(ratificata con legge 3 marzo 2009, n. 18), sono “accomodamenti
+(ratificata con Legge 3 marzo 2009, n. 18), sono “accomodamenti
 ragionevoli”, ovvero “\ *le modifiche e gli adattamenti necessari e
 appropriati che non impongano un carico sproporzionato o eccessivo, ove
 ve ne sia necessità in casi particolari, per assicurare alle persone con
@@ -380,7 +380,7 @@ strumenti dell’utente.
 Si raccomanda di allestire una postazione locale dedicata per l’utente,
 che preveda in taluni casi l’uso di terminali o monitor e degli
 strumenti, già previsti per il personale con disabilità interno
-all’ufficio, descritti nel punto 2.7 delle presenti Linee Guida.
+all’ufficio, descritti nel paragrafo 2.7 delle presenti Linee Guida.
 
 Inoltre, si raccomanda il ricorso a soluzioni volte a facilitare la
 comunicazione alternativa con il pubblico, comprendendo anche nella
