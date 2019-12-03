@@ -10,7 +10,7 @@ Nello specifico è descritta la modalità per la verifica di conformità
 dell’hardware, delle applicazioni web, inclusi i documenti web e non
 web, software ed applicazioni mobili, della relativa documentazione e
 servizi di supporto, nonché la metodologia e criteri di valutazione per
-la verifica soggettiva dell’accessibilità dei siti Web.
+la verifica soggettiva dell’accessibilità dei siti web e delle applicazioni mobili.
 
 Sono esclusi dall’applicazione della verifica i casi previsti dal
 capitolo “6. Onere Sproporzionato” delle presenti Linee Guida, che
@@ -51,8 +51,8 @@ Criteri di valutazione per la verifica soggettiva dell’hardware
 
 Secondo quanto previsto dai Requisiti tecnici (art. 11 comma 1 lettera
 a) della Legge n. 4/2004), al fine di dare attuazione alle prescrizioni
-di cui all'articolo 4 della direttiva UE 2016/2102 anche per l’hardware
-necessario prendere come riferimento i valori di cui al capitolo
+di cui all'articolo 4 della Direttiva UE 2016/2102 anche per l’hardware
+necessario prendere come riferimento i valori di cui al successivo paragrafo
 3.2.2.1, lettera d), numero 3.
 
 Tale attività è svolta limitatamente all’hardware sviluppato in nome e
@@ -62,11 +62,11 @@ Al fine di evitare di incorrere nella clausola di onere sproporzionato,
 l’attività di verifica soggettiva per i siti Web di cui al capitolo
 3.2.2.1. è adattabile e applicabile anche all’hardware e deve essere
 svolta obbligatoriamente per le forniture sopra soglia comunitaria ai
-sensi dell’art. 35 del Dlgs. 18 aprile 2016, n. 50.
+sensi dell’art. 35 del Decreto Legislativo del 18 aprile 2016, n. 50.
 
 Per le forniture sotto soglia comunitaria, fermo restando la possibilità
 di adattare e utilizzare comunque anche per l’hardware la procedura di
-cui al capitolo 3.2.2.1., è richiesto di possibile utilizzare almeno la
+cui al paragrafo 3.2.2.1., è richiesto di poter utilizzare almeno la
 una metodologia semplificata per la realizzazione di test di usabilità,
 ad esempio con analisi basate su euristiche, svolte anche da parte di
 funzionari del medesimo soggetto erogatore opportunamente formati, con
@@ -105,7 +105,7 @@ presente all’interno dell’Appendice A della norma UNI EN 301549:2018.
 
 La verifica di conformità è relativa alle pagine web, che includono:
 
-1. documenti che sono pagine web;
+1. documenti in forma di pagine web;
 
 2. documenti che sono incorporati nelle pagine web e che sono utilizzati
    nella rappresentazione o che sono destinati a essere rappresentati
@@ -118,7 +118,7 @@ La verifica di conformità è relativa alle pagine web, che includono:
    pagina web in cui è incorporato.
 
 Oltre a quanto sopra esposto, il riferimento tecnico della norma UNI EN
-301549:2018 per i documenti inseriti all’interno delle pagine Web
+301549:2018 per i documenti inseriti all’interno delle pagine web
 (inclusi i documenti e moduli scaricabili) è il capitolo “10 Documenti
 non web”.
 
@@ -127,20 +127,20 @@ Criteri di valutazione per la verifica soggettiva delle pagine web
 
 Secondo quanto previsto dai Requisiti tecnici (art. 11 comma 1 lettera
 a) della Legge n. 4/2004), al fine di dare attuazione alle prescrizioni
-di cui all'articolo 4 della direttiva UE 2016/2102 è necessario prendere
-come riferimento i valori di cui al successivo punto 3.2.2.1, lettera
+di cui all'articolo 4 della Direttiva UE 2016/2102 è necessario prendere
+come riferimento i valori di cui al successivo paragrafo 3.2.2.1, lettera
 d), numero 3.
 
 Al fine di evitare di incorrere nella clausola di onere sproporzionato,
 l’attività di verifica soggettiva va svolta obbligatoriamente per le
-forniture sopra soglia comunitaria ai sensi dell’art. 35 del Dlgs. 18
+forniture sopra soglia comunitaria ai sensi dell’art. 35 del Decreto Legislativo 18
 aprile 2016, n. 50.
 
 Per le forniture sotto soglia comunitaria, fermo restando la possibilità
 di utilizzare comunque la procedura di cui al paragrafo 3.2.2.1., è
 richiesto di utilizzare almeno una metodologia semplificata per la
 realizzazione di test di usabilità, ad esempio quella definita dal
-Protocollo eGLU [2]_ o con altre modalità (esempio: analisi basate su
+Protocollo eGLU [2]_ o con altre modalità, ad esempio: con analisi basate su
 euristiche, svolte anche da parte di funzionari del medesimo soggetto
 erogatore opportunamente formati, con il coinvolgimento di persone con
 disabilità.
@@ -156,8 +156,8 @@ Verifica soggettiva
 
 Per verifica soggettiva delle pagine web si intende una valutazione del
 livello di qualità dei servizi, già giudicati accessibili tramite la
-verifica tecnica, effettuata con l'intervento del destinatario, anche
-con disabilità, sulla base di considerazioni empiriche.
+verifica tecnica, effettuata con l'intervento del destinatario, coinvolgendo anche
+le persone con disabilità, sulla base di considerazioni empiriche.
 
 La metodologia di verifica soggettiva delle pagine web si articola in
 quattro principali fasi:
@@ -252,7 +252,7 @@ seguente schema:
 Criteri di valutazione
 ^^^^^^^^^^^^^^^^^^^^^^
 
-I criteri essenziali su cui basare la verifica soggettiva dei siti Web e
+I criteri essenziali su cui basare la verifica soggettiva dei siti web e
 delle applicazioni realizzate con tecnologie Internet sono:
 
 1.  **percezione**: informazioni e comandi necessari per l’esecuzione
@@ -353,21 +353,21 @@ Criteri di valutazione per la verifica soggettiva del software
 Secondo quanto previsto dai Requisiti tecnici (art. 11 comma 1 lettera
 a) della Legge n. 4/2004), al fine di dare attuazione alle prescrizioni
 di cui all'articolo 4 della direttiva UE 2016/2102 anche per il software
-è necessario prendere come riferimento i valori di cui al capitolo
+è necessario prendere come riferimento i valori di cui al paragrafo
 3.2.2.1, lettera d), numero 3.
 
 Tale attività è svolta limitatamente al software sviluppato in nome e
 per conto del soggetto erogatore.
 
 Al fine di evitare di incorrere nella clausola di onere sproporzionato,
-l’attività di verifica soggettiva per i siti Web di cui al capitolo
+l’attività di verifica soggettiva per i siti web di cui al paragrafo
 3.2.2.1. è adattabile e applicabile anche al software e deve essere
 svolta obbligatoriamente per le forniture sopra soglia comunitaria ai
-sensi dell’art. 35 del Dlgs. 18 aprile 2016, n. 50.
+sensi dell’art. 35 del Decreto Legislativo del 18 aprile 2016, n. 50.
 
 Per le forniture sotto soglia comunitaria, fermo restando la possibilità
 di adattare e utilizzare comunque anche per il software la procedura di
-cui al capitolo 3.2.2.1., è richiesto di possibile utilizzare almeno la
+cui al paragrafo 3.2.2.1., è richiesto di poter utilizzare almeno la
 una metodologia semplificata per la realizzazione di test di usabilità,
 ad esempio con analisi basate su euristiche, svolte anche da parte di
 funzionari del medesimo soggetto erogatore opportunamente formati, con
@@ -394,7 +394,7 @@ Verifica tecnica
 La verifica di conformità delle applicazioni mobili è effettuabile
 applicando quanto previsto nel Prospetto A.2 presente all’interno
 dell’Appendice A della norma UNI EN 301549:2018. Per i documenti non
-web, per i contenuti e i moduli scaricabili dal Web si applica quanto
+web, per i contenuti e i moduli scaricabili dal web si applica quanto
 contenuto nel capitolo “10 Documenti non web”.
 
 Criteri di valutazione per la verifica soggettiva delle applicazioni mobili
@@ -404,17 +404,17 @@ Secondo quanto previsto dai Requisiti tecnici (art. 11 comma 1 lettera
 a) della Legge n. 4/2004), al fine di dare attuazione alle prescrizioni
 di cui all'articolo 4 della direttiva UE 2016/2102 anche per le
 applicazioni mobili è necessario prendere come riferimento i valori di
-cui al capitolo 3.2.2.1, lettera d), numero 3.
+cui al paragrafo 3.2.2.1, lettera d), numero 3.
 
 Al fine di evitare di incorrere nella clausola di onere sproporzionato,
-l’attività di verifica soggettiva per i siti Web di cui al capitolo
+l’attività di verifica soggettiva per i siti web di cui al paragrafo
 3.2.2.1. è adattabile e applicabile anche alle applicazioni mobili e
 deve essere svolta obbligatoriamente per le forniture sopra soglia
-comunitaria ai sensi dell’art. 35 del Dlgs. 18 aprile 2016, n. 50.
+comunitaria ai sensi dell’art. 35 del Decreto Legislativo. 18 aprile 2016, n. 50.
 
 Per le forniture sotto soglia comunitaria, fermo restando la possibilità
 di adattare e utilizzare comunque anche per le applicazioni mobili la
-procedura di cui al capitolo 3.2.2.1., è richiesto di possibile
+procedura di cui al paragrafo 3.2.2.1., è richiesto di poter
 utilizzare almeno la una metodologia semplificata per la realizzazione
 di test di usabilità, ad esempio con analisi basate su euristiche,
 svolte anche da parte di funzionari del medesimo soggetto erogatore
