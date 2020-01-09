@@ -6,7 +6,7 @@ Definizione e casi di deroga
 
 Per onere sproporzionato si intende una circostanza di fatto o di
 diritto che rappresenta, nei casi previsti dall’art. 3-ter, comma 2,
-legge n. 4 del 2004, una deroga alle prescrizioni fissate dalla stessa
+Legge n. 4 del 2004, una deroga alle prescrizioni fissate dalla stessa
 legge in materia di accessibilità che deve fondarsi esclusivamente su
 motivazioni legittime e adeguatamente giustificate.
 
@@ -17,7 +17,7 @@ allo scopo prefissato o di pubblicare le informazioni necessarie o
 pertinenti per i suoi compiti e servizi, pur tenendo conto del probabile
 beneficio o danno che ne deriverebbe per le persone con disabilità.
 
-L’art. 3-ter, comma 2, l. 4/2004, individua le quattro misure generali
+L’art. 3-ter, comma 2, Legge n. 4/2004, individua le quattro misure generali
 alla ricorrenza delle quali è opponibile un onere sproporzionato, ossia:
 
 1. onere organizzativo eccessivo;
@@ -130,7 +130,7 @@ piena accessibilità.
 Ulteriori casi di deroga
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Fermo restando la possibilità di applicare le presenti linee guida a
+Fermo restando la possibilità di applicare le presenti Linee Guida a
 qualsiasi contenuto di un sito web o applicazione mobile, l’onere
 sproporzionato può essere applicato ai seguenti contenuti di siti web e
 applicazioni mobili:
@@ -189,7 +189,7 @@ specificando che tali non sono, di per sé, le seguenti:
    rispetto degli obblighi previsti dalla L. 4/2004 e dal presente
    documento.
 
-Il considerando 39 della Direttiva UE 2016/2102 e la legge delega n. 163
+Il considerando 39 della Direttiva UE 2016/2102 e la Legge delega n. 163
 del 2017 includono tra i motivi non legittimi per invocare l’onere
 sproporzionato anche la mancanza di carattere prioritario degli
 interventi volti a garantire la piena accessibilità. Per conformità alle
@@ -203,7 +203,7 @@ comporta che, in determinate circostanze, tali condizioni potrebbero
 diventare legittime se particolarmente gravi e/o combinate tra loro, ma
 significa esclusivamente che gli unici motivi legittimi che giustificano
 il ricorso all’onere sproporzionato sono quelli che consistono nelle
-misure espressamente individuate all’art. 3-ter, comma 2, l. 4/2004.
+misure espressamente individuate all’art. 3-ter, comma 2, Legge n. 4/2004.
 
 Soluzioni di accessibilità alternative
 --------------------------------------

@@ -5,7 +5,7 @@ Compendio
 ---------
 
 Il presente documento di Linee Guida, redatto secondo quanto riportato e
-contenuto nell’articolo 11 della Legge n. 4/2004, è strutturato in 7
+contenuto nell’articolo 11 della Legge del 9 gennaio 2004, n. 4, è strutturato in 7
 capitoli, come di seguito descritto:
 
 -  Capitolo 1. **Introduzione**
@@ -17,7 +17,7 @@ capitoli, come di seguito descritto:
       emesso il documento;
 
    -  il paragrafo 1.3 **Struttura**, questa sezione riporta l’elenco degli
-      allegati, che costituiscono parte integrante del presente documento
+      Allegati, che costituiscono parte integrante del presente documento
 
    -  il paragrafo 1.4 **Soggetti** **destinatari**, individua i
       destinatari del documento;
@@ -26,11 +26,11 @@ capitoli, come di seguito descritto:
       in questa sezione sono indicati puntualmente, secondo la specifica
       natura normativa o tecnica, tutti i riferimenti considerati per il
       documento (sia nazionali che internazionali) nonché quelli aggiornati
-      per i requisiti tecnici abrogati dal Decreto Legislativo 106/2018;
+      per i requisiti tecnici abrogati dal Decreto Legislativo del 10 agosto 2018, n. 106;
 
    -  il paragrafo 1.6 **Tempi di attuazione**, riporta le tempistiche
       relative all’applicazione delle disposizioni del Decreto Legislativo
-      106/2018 (art. 2);
+      del 10 agosto 2018, n. 106 (art. 2);
 
    -  il paragrafo 1.7 **Termini e definizioni**, contiene i riferimenti
       delle abbreviazioni dei termini referenziati.
@@ -41,7 +41,7 @@ capitoli, come di seguito descritto:
    -  sono referenziati i requisiti tecnici per l’accessibilità degli
       strumenti informatici (Hardware, Web, Documenti non web, Software,
       Applicazioni Mobili, Documentazione e servizi di supporto) che, ai
-      sensi della Direttiva Europea 2016/2102, sono referenziati alla norma
+      sensi della Direttiva europea 2016/2102, sono referenziati alla norma
       tecnica europea EN 301549 v. 2.1.2;
 
    -  si forniscono indicazioni sulle postazioni di lavoro a disposizione
@@ -58,10 +58,10 @@ capitoli, come di seguito descritto:
 
    -  sono indicati i riferimenti da utilizzare per le verifiche tecniche
       di conformità di accessibilità degli strumenti informatici che, ai
-      sensi della Direttiva Europea 2016/2102, sono referenziati alla norma
+      sensi della Direttiva europea 2016/2102, sono referenziati alla norma
       tecnica europea EN 301549 v. 2.1.2. Viene inoltre descritta la
       metodologia e criteri di valutazione per la verifica soggettiva
-      dell’accessibilità dei siti web.
+      dell’accessibilità dei siti web e delle applicazioni mobili.
 
 -  Capitolo 4. **Dichiarazione di accessibilità e pubblicazione
    obiettivi di accessibilità**
@@ -79,7 +79,7 @@ capitoli, come di seguito descritto:
    -  viene riportata la metodologia di monitoraggio, effettuata da AGID,
       della conformità dei siti web e delle applicazioni mobili degli enti
       pubblici alle prescrizioni in materia di accessibilità definite
-      all’articolo 4 della direttiva (UE) 2016/2102;
+      all’articolo 4 della Direttiva europea 2016/2102;
 
    -  vengono definite le disposizioni riguardanti la presentazione alla
       Commissione, da parte di AGID, delle relazioni sugli esiti del
@@ -107,12 +107,12 @@ Scopo
 -----
 
 Le presenti Linee Guida hanno lo scopo di adempiere a quanto definito
-dall’art 11 della legge n. 4 del 2004, in cui si richiede che l’Agenzia
+dall’art 11 della Legge del 9 gennaio 2004, n. 4, in cui si richiede che l’Agenzia
 dell’Italia Digitale, sentite anche le associazioni maggiormente
 rappresentative delle persone con disabilità, nonché quelle del settore
 industriale coinvolto nella creazione di software per l’accessibilità di
 siti web e applicazioni mobili, d’intesa con la Conferenza unificata di
-cui all’articolo 8 del decreto legislativo 28 agosto 1997, n. 281,
+cui all’articolo 8 del Decreto Legislativo 28 agosto 1997, n. 281,
 emani, in conformità alle procedure e alle regole tecniche di cui
 all’articolo 71 del decreto legislativo 7 marzo 2005, n. 82, apposite
 linee guida con cui, nel rispetto degli atti di esecuzione adottati
@@ -121,7 +121,7 @@ siano stabiliti :
 
 1. i requisiti tecnici per l’accessibilità degli strumenti informatici,
    ivi inclusi i siti web e le applicazioni mobili, conformemente ai
-   principi di cui all’articolo 3-bis, legge n. 4 del 2004, e ai valori
+   principi di cui all’articolo 3-bis, Legge n. 4 del 2004, e ai valori
    di cui al punto 1), lettera d), numero 3, dell'allegato B al decreto
    del Ministro per l'innovazione e le tecnologie 8 luglio 2005,
    pubblicato nella Gazzetta Ufficiale n. 183 dell'8 agosto 2005;
@@ -131,14 +131,14 @@ siano stabiliti :
    mobili;
 
 3. il modello della dichiarazione di accessibilità di cui all’articolo
-   3-quater, legge n. 4 del 2004;
+   3-quater, Legge del 9 gennaio 2004, n. 4;
 
 4. la metodologia di monitoraggio e valutazione della conformità degli
    strumenti informatici, ivi inclusi i siti web e le applicazioni
    mobili, alle prescrizioni in materia di accessibilità;
 
 5. le circostanze in presenza delle quali, tenuto conto di quanto
-   previsto dall’articolo 5 della direttiva (UE) 2016/2102, si determina
+   previsto dall’articolo 5 della Direttiva europea 2016/2102, si determina
    un onere sproporzionato, per cui i soggetti erogatori possono
    ragionevolmente limitare l’accessibilità di un sito web o
    applicazione mobile.
@@ -148,7 +148,7 @@ Struttura
 
 Le presenti Linee Guida comprendono i seguenti documenti:
 
--  Allegato 1. Modello di dichiarazione di accessibilità sito Web e
+-  Allegato 1. Modello di dichiarazione di accessibilità sito web e
    applicazione mobile
 
 -  Allegato 2. Modello di autovalutazione
@@ -160,7 +160,7 @@ Soggetti destinatari
 --------------------
 
 I destinatari e l’applicazione delle presenti Linee Guida sono riportati
-e descritti nell’art. 3 (Soggetti erogatori) della Legge n. 4/2004:
+e descritti nell’art. 3 (Soggetti erogatori) della Legge del 9 gennaio 2004, n. 4:
 
 art. 3-comma 1. *La presente legge si applica alle pubbliche
 amministrazioni di cui al comma 2 dell'articolo 1 del decreto
@@ -176,7 +176,7 @@ febbraio 2014 nonché a tutti i soggetti che usufruiscono di contributi
 pubblici o agevolazioni per l'erogazione dei propri servizi tramite
 sistemi informativi o internet*.
 
-Riferimenti normativi e tecnici e abrogazioni
+Riferimenti normativi tecnici e abrogazioni
 ---------------------------------------------
 
 In questa sezione sono indicati puntualmente, secondo la specifica
@@ -192,17 +192,17 @@ maniera corrispondente.
 Riferimenti normativi internazionali e nazionali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
--  Direttiva (UE) 2016/2102 del Parlamento europeo e del Consiglio, del
+-  Direttiva europea 2016/2102 del Parlamento europeo e del Consiglio, del
    26 ottobre 2016, relativa all'accessibilità dei siti web e delle
    applicazioni mobili degli enti pubblici.
 
--  Decisione di esecuzione (UE) 2018/1523 della Commissione, dell’11
+-  Decisione di esecuzione europea 2018/1523 della Commissione, dell’11
    ottobre 2018, che istituisce un modello di dichiarazione di
    accessibilità conformemente alla direttiva (UE) 2016/2102 del
    Parlamento europeo e del Consiglio relativa all’accessibilità dei
    siti web e delle applicazioni mobili degli enti pubblici.
 
--  Decisione di esecuzione (UE) 2018/1524 della Commissione, dell’11
+-  Decisione di esecuzione europea 2018/1524 della Commissione, dell’11
    ottobre 2018, che stabilisce una metodologia di monitoraggio e
    definisce le disposizioni riguardanti la presentazione delle
    relazioni degli Stati membri conformemente alla direttiva (UE)
@@ -210,31 +210,31 @@ Riferimenti normativi internazionali e nazionali
    all’accessibilità dei siti web e delle applicazioni mobili degli enti
    pubblici [notificata con il numero C(2018) 6560].
 
--  Decisione di esecuzione (UE) 2018/2048 della Commissione del 20
+-  Decisione di esecuzione europea 2018/2048 della Commissione del 20
    dicembre 2018 relativa alla norma armonizzata per i siti web e le
    applicazioni mobili elaborata a sostegno della direttiva (UE)
    2016/2102 del Parlamento europeo e del Consiglio.
 
--  Regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del
+-  Regolamento europeo 2016/679 del Parlamento europeo e del Consiglio, del
    27 aprile 2016, relativo alla protezione delle persone fisiche con
    riguardo al trattamento dei dati personali, nonché alla libera
    circolazione di tali dati e che abroga la direttiva 95/46/CE
    (regolamento generale sulla protezione dei dati).
 
--  LEGGE 7 agosto 1990, n. 241 “Nuove norme in materia di procedimento
+-  Legge del 7 agosto 1990, n. 241 “Nuove norme in materia di procedimento
    amministrativo e di diritto di accesso ai documenti amministrativi”.
 
--  LEGGE 3 marzo 2009, n.18 “\ *Ratifica ed esecuzione della Convenzione
+-  Legge del 3 marzo 2009, n.18 “\ *Ratifica ed esecuzione della Convenzione
    delle Nazioni Unite sui diritti delle persone con disabilità, con
    Protocollo opzionale, fatta a New York il 13 dicembre 2006 e
    istituzione dell'Osservatorio nazionale sulla condizione delle
    persone con disabilità”.*
 
--  DECRETO LEGISLATIVO 30 marzo 2001, n. 165 “Norme generali
+-  Decreto Legislativo del 30 marzo 2001, n. 165 “Norme generali
    sull'ordinamento del lavoro alle dipendenze delle amministrazioni
    pubbliche”.
 
--  DECRETO LEGISLATIVO 30 giugno 2003, n. 196 “Codice in materia di
+-  Decreto Legislativo del 30 giugno 2003, n. 196 “Codice in materia di
    protezione dei dati personali, recante disposizioni per l'adeguamento
    dell'ordinamento nazionale al regolamento (UE) n. 2016/679 del
    Parlamento europeo e del Consiglio, del 27 aprile 2016, relativo alla
@@ -242,31 +242,31 @@ Riferimenti normativi internazionali e nazionali
    personali, nonché alla libera circolazione di tali dati e che abroga
    la direttiva 95/46/CE”.
 
--  DECRETO LEGISLATIVO 7 marzo 2005, n. 82 “Codice dell’Amministrazione
+-  Decreto Legislativo del 7 marzo 2005, n. 82 “Codice dell’Amministrazione
    Digitale”.
 
--  LEGGE 9 gennaio 2004, n. 4 “Disposizioni per favorire e semplificare
+-  Legge del 9 gennaio 2004, n. 4 “Disposizioni per favorire e semplificare
    l'accesso degli utenti e, in particolare, delle persone con
    disabilità agli strumenti informatici”.
 
--  LEGGE 25 ottobre 2017, n. 163 “Delega al Governo per il recepimento
+-  Legge del 25 ottobre 2017, n. 163 “Delega al Governo per il recepimento
    delle direttive europee e l'attuazione di altri atti dell'Unione
    europea - Legge di delegazione europea 2016-2017”.
 
--  DECRETO LEGISLATIVO 10 agosto 2018, n. 106 “Riforma dell'attuazione
+-  Decreto Legislativo del 10 agosto 2018, n. 106 “Riforma dell'attuazione
    della direttiva (UE) 2016/2102 relativa all’accessibilità dei siti
    web e delle applicazioni mobili degli enti pubblici”.
 
--  DECRETO LEGISLATIVO 14 settembre 2015, n. 151 “Disposizioni di
+-  Decreto Legislativo del 14 settembre 2015, n. 151 “Disposizioni di
    razionalizzazione e semplificazione delle procedure e degli
    adempimenti a carico di cittadini e imprese e altre disposizioni in
    materia di rapporto di lavoro e pari opportunità, in attuazione della
    legge 10 dicembre 2014, n. 183”.
 
--  DECRETO LEGISLATIVO n. 75 del 25 maggio 2017, n. 75 “Modifiche e
+-  Decreto Legislativo del 25 maggio 2017, n. 75 “Modifiche e
    integrazioni al decreto legislativo 30 marzo 2001, n. 165”.
 
--  CIRCOLARE del Ministro per la pubblica amministrazione n. 3 del 1°
+-  Circolare del Ministro per la pubblica amministrazione n. 3 del 1°
    ottobre 2018.
 
 Riferimenti tecnici internazionali e nazionali
@@ -304,8 +304,7 @@ Riferimenti tecnici internazionali e nazionali
 Abrogazioni e correlazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Considerato che il DM 8 luglio 2005 è stato abrogato dal DECRETO
-LEGISLATIVO 10 agosto 2018, n. 106, i requisiti abrogati e sostituiti
+Considerato che il DM 8 luglio 2005 è stato abrogato dal Decreto Legislativo del 10 agosto 2018, n. 106, i requisiti abrogati e sostituiti
 all’uscita delle presenti Linee Guida sono così referenziati:
 
 -  il capitolo 2.1 sostituisce il documento “Allegato C: Requisiti
@@ -328,12 +327,15 @@ all’uscita delle presenti Linee Guida sono così referenziati:
 -  il capitolo 2.7 sostituisce la Circolare AGID n. 2 del 23 settembre
    2015 “Specifiche tecniche sull’hardware, il software e le tecnologie
    assistive delle postazioni di lavoro a disposizione del dipendente
-   con disabilità”.
+   con disabilità”;
+-  il paragrafo 2.8 sostituisce la Circolare AGID n. 3 del 7 luglio 2017 “Raccomandazioni e precisazioni sull’accessibilità digitale dei servizi pubblici erogati a sportello dalla Pubblica Amministrazione, in sintonia con i requisiti dei servizi online e dei servizi interni”;
+-	il paragrafo 3.2.2. sostituisce il documento “Allegato B: Metodologia e criteri di valutazione per la verifica soggettiva dell’accessibilità delle applicazioni basate su tecnologie internet” del DM 8 luglio 2005.
 
+   
 Tempi di attuazione
 -------------------
 
-Come riportato nell’art.2 del D.lgs. 106/2018 (Norme transitorie e
+Come riportato nell’art.2 del D.Lgs. 106/2018 (Norme transitorie e
 abrogazioni):
 
 1. comma 1. *Le disposizioni del presente decreto relative ai siti web e

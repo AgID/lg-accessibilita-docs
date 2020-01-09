@@ -9,7 +9,7 @@ Siti Web e applicazioni mobili
 Il presente capitolo descrive la metodologia di monitoraggio della
 conformità dei siti web e delle applicazioni mobili degli enti pubblici
 alle prescrizioni in materia di accessibilità definite all’articolo 4
-della direttiva UE 2016/2102, sulla base delle prescrizioni individuate
+della Direttiva UE 2016/2102, sulla base delle prescrizioni individuate
 nelle norme e nelle specifiche tecniche di cui all'articolo 6 della
 stessa, e definisce le disposizioni riguardanti la presentazione alla
 Commissione europea, da parte di AGID, delle relazioni sugli esiti del
@@ -43,17 +43,17 @@ AGID effettua il monitoraggio avvalendosi di:
 
 1. un metodo di monitoraggio approfondito atto a verificare la
    conformità, applicato nel rispetto delle prescrizioni di cui al punto
-   1.2 dell'allegato I della Decisione di Esecuzione UE 2018/1524 della
+   1.2 dell'allegato I della Decisione di esecuzione UE 2018/1524 della
    Commissione;
 
 2. un metodo di monitoraggio semplificato atto a rilevare la non
    conformità, applicato nel rispetto delle prescrizioni di cui al punto
-   1.3 dell'allegato I della Decisione di Esecuzione UE 2018/1524 della
+   1.3 dell'allegato I della Decisione di secuzione UE 2018/1524 della
    Commissione.
 
 Tali metodi di monitoraggio non aggiungono, annullano o sostituiscono le
 prescrizioni individuate nelle norme e nelle specifiche tecniche di cui
-all'articolo 6 della direttiva UE 2016/2102. I metodi sono indipendenti
+all'articolo 6 della Direttiva UE 2016/2102. I metodi sono indipendenti
 da qualsiasi particolare verifica, strumento di valutazione
 dell'accessibilità, sistema operativo e browser web o da specifiche
 tecnologie assistive.
@@ -165,7 +165,7 @@ paragrafo riportati nell’elenco seguente fanno riferimento al capitolo
 
 I paragrafi “4.2.8 utilizzo con portata limitata” e “4.2.11 Privacy”
 della norma UNI EN 301549:2018 non vengono considerati all’interno delle
-Linee Guida in quanto non afferenti ai dettami della direttiva UE
+Linee Guida in quanto non afferenti ai dettami della Direttiva UE
 2016/2102.
 
 Nell’ambito del monitoraggio semplificato AGID può anche utilizzare
@@ -210,7 +210,7 @@ distribuzione diversificata, rappresentativa e geograficamente
 equilibrata.
 
 Il campione deve comprendere siti web appartenenti ai diversi soggetti
-erogatori individuati dall’art. 3, comma 1, legge n.4 del 2004.
+erogatori individuati dall’art. 3, comma 1, Legge n.4 del 2004.
 
 Nel campione devono figurare siti web che rappresentano il più possibile
 la varietà di servizi forniti dagli enti pubblici, in particolare nei
@@ -314,19 +314,19 @@ La relazione alla Commissione europea sugli esiti del monitoraggio
 ------------------------------------------------------------------
 
 AGID presenterà alla Commissione la relazione di cui all'articolo 8,
-paragrafo 4, della direttiva UE 2016/2102 in un formato accessibile e in
+paragrafo 4, della Direttiva UE 2016/2102 in un formato accessibile e in
 lingua italiana.
 
 La relazione comprende l'esito del monitoraggio con riferimento alle
 prescrizioni contenute nelle norme e nelle specifiche tecniche di cui
-all'articolo 6 della direttiva UE 2016/2102. I risultati che superano le
+all'articolo 6 della Direttiva UE 2016/2102. I risultati che superano le
 suddette prescrizioni possono anch'essi essere inclusi nella relazione
 e, in tal caso, saranno presentati separatamente.
 
 Contenuto della relazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La relazione di cui all'articolo 8, paragrafo 4, della direttiva UE
+La relazione di cui all'articolo 8, paragrafo 4, della Direttiva UE
 2016/2102 contiene:
 
 1. la descrizione dettagliata delle modalità con cui è stato effettuato
@@ -335,14 +335,14 @@ La relazione di cui all'articolo 8, paragrafo 4, della direttiva UE
 2. una matrice che mediante un indice di correlazione dimostri
    l'attinenza tra i metodi di monitoraggio applicati e le prescrizioni
    contenute nelle norme e nelle specifiche tecniche di cui all'articolo
-   6 della direttiva UE 2016/2102, comprese eventuali modifiche
+   6 della Direttiva UE 2016/2102, comprese eventuali modifiche
    significative dei metodi;
 
 3. gli esiti del monitoraggio per ciascun periodo di monitoraggio,
    compresi i dati misurati;
 
 4. le informazioni richieste a norma dell'articolo 8, paragrafo 5, della
-   direttiva UE 2016/2102.
+   Direttiva UE 2016/2102.
 
 Nella relazione AGID fornisce le seguenti informazioni, come specificato
 nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
@@ -402,7 +402,7 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
       a) una matrice che mediante un indice di correlazione dimostri
       l'attinenza tra i metodi di monitoraggio applicati e le prescrizioni
       contenute nelle norme e nelle specifiche tecniche di cui all'articolo 6
-      della direttiva UE 2016/2102, comprese eventuali modifiche significative
+      della Direttiva UE 2016/2102, comprese eventuali modifiche significative
       dei metodi;
       
       b) le informazioni sugli strumenti usati, le verifiche effettuate e
@@ -426,7 +426,7 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
 
          i. le conclusioni relative a casi frequenti o critici di non conformità
          alle prescrizioni individuate nelle norme e nelle specifiche tecniche di
-         cui all'articolo 6 della direttiva (UE) 2016/2102;
+         cui all'articolo 6 della Direttiva (UE) 2016/2102;
 
          ii. quando sia possibile gli sviluppi, da un periodo di monitoraggio al
          successivo, dell'accessibilità generale dei siti web e delle
@@ -438,7 +438,7 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
 
          a) l'esito del monitoraggio dei siti web o delle applicazioni mobili
          degli enti pubblici che esulano dall'ambito di applicazione della
-         direttiva (UE) 2016/2102;
+         Direttiva (UE) 2016/2102;
 
          b) informazioni dettagliate sulle prestazioni, in termini di
          accessibilità, delle diverse tecnologie utilizzate dai siti web e dalle
@@ -446,7 +446,7 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
 
          c) i risultati del monitoraggio con riferimento a prescrizioni che vanno
          oltre le prescrizioni contenute nelle norme e nelle specifiche tecniche
-         di cui all'articolo 6 della direttiva UE 2016/2102;
+         di cui all'articolo 6 della Direttiva UE 2016/2102;
 
          d) gli insegnamenti tratti dal feedback inviato dall'organismo
          responsabile del monitoraggio agli enti pubblici monitorati;
@@ -459,7 +459,7 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
          e l'elenco delle parti interessate consultate;
 
          g) informazioni dettagliate sul ricorso alla deroga per onere
-         sproporzionato di cui all'articolo 5 della direttiva UE 2016/2102.
+         sproporzionato di cui all'articolo 5 della Direttiva UE 2016/2102.
 
 4. *Ricorso alla procedura di attuazione e feedback degli utenti finali*
 
@@ -469,12 +469,12 @@ nelle istruzioni di cui all’allegato II della Decisione di esecuzione UE
    AGID può inserire nella relazione eventuali dati qualitativi e
    quantitativi sul feedback ricevuto dagli enti pubblici attraverso il
    meccanismo di feedback stabilito all'articolo 7, paragrafo 1, lettera
-   b), della direttiva (UE) 2016/2102.
+   b), della Direttiva (UE) 2016/2102.
 
 5. *Contenuto attinente alle misure aggiuntive*
 
    La relazione comprende i contenuti prescritti all'articolo 8, paragrafo
-   5, della direttiva (UE) 2016/2102.
+   5, della Direttiva (UE) 2016/2102.
 
 Periodicità della presentazione delle relazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -485,7 +485,7 @@ siti web e le applicazioni mobili, di cui al paragrafo 5.1.1, primo e
 secondo capoverso.
 
 Le successive relazioni sono presentate da AGID ogni tre anni, come
-stabilito all'articolo 8, paragrafo 4, della direttiva UE 2016/2102.
+stabilito all'articolo 8, paragrafo 4, della Direttiva UE 2016/2102.
 
 AGID rende pubbliche le relazioni in un formato accessibile.
 
